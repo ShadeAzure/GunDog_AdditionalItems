@@ -1,0 +1,9 @@
+td{
+    pointer-events: none;
+}
+div{
+    pointer-events: none;
+}
+table{
+    max-width: 500px!important;
+}
