@@ -1,0 +1,2 @@
+# GunDog_AdditionalItems
+ガンドッグの自作アイテムデータ
