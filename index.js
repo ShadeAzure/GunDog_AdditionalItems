@@ -1,3 +1,5 @@
+//ページ制御
+
 $(function(){});
 var height = 0;
 $(window).on('load resize', function(){
@@ -21,4 +23,4 @@ $('[href^="#"]').click(function(){
     // スムーススクロール
     $('body,html').animate({scrollTop:position}, speed, 'swing');
     return false;
-  });
+});
